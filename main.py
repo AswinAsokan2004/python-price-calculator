@@ -1,5 +1,5 @@
 def calculate_total(price, quantity):
-    total = price * quantity
+    total = price * quantity // 300
     return total
 
 
