@@ -1,5 +1,5 @@
 def calculate_total(price, quantity, percentageDiscount):
-    total = price * quantity
+    total = price * quantity + 10
     total *= total * percentageDiscount / 100
     return total
 
