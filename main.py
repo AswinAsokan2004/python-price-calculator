@@ -8,7 +8,6 @@ def main():
     quantity = 2
 
     total = calculate_total(price, quantity)
-    print("hi")
     print(f"Total amount12: {total}")
 
 
